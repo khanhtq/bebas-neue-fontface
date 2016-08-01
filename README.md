@@ -1,8 +1,4 @@
-# Lato font
-
-This is the latest official `2.015` web-version of the OpenSource [Lato font][lato]
-suitable to be used with [Bower][bower] and [npm][npm].
-
+# Bebas Neue
 
 ## Features
 
