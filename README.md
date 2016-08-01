@@ -1,9 +1,9 @@
-# Bebas Neue
+# Bebas Neue Font Face
 
 ## Features
 
-- latest official web-optimized version of the *Lato* font
-- supports all unicode ranges (i.e. languages), variants and styles provided by *Lato* font
+- latest official web-optimized version of the *Bebas Neue* font
+- supports all unicode ranges (i.e. languages), variants and styles provided by *Bebas Neue* font
 - provides both *CSS* and *SCSS* (*SASS/Compass*) integration options
 - installs with *Bower* and *npm*
 
@@ -87,9 +87,8 @@ Cheers!
   [so-ask]:    http://stackoverflow.com/questions/ask
   [email]:     mailto:khanhtq1987@gmail.com
   [plunker]:   http://plnkr.co/
-  [new-issue]: https://github.com/khanhtq/lato-font-face/issues/new
-  
-  [lato]: http://www.latofonts.com/
+  [new-issue]: https://github.com/khanhtq/bebas-neue-fontface/issues/new
+
   [bower]: http://bower.io/
   [npm]: https://www.npmjs.com/
   [scss-api]: #scss-api
