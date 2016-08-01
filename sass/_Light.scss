@@ -1,0 +1,7 @@
+@font-face {
+    font-family: '#{$FontName}-Light';
+    @include fontdef($FontPath, $FontName, $FontVersion, "Light");
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

@@ -1,0 +1,7 @@
+@font-face {
+    font-family: '#{$FontName}-Book';
+    @include fontdef($FontPath, $FontName, $FontVersion, "Book");
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

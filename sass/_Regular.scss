@@ -1,0 +1,14 @@
+@font-face {
+    font-family: '#{$FontName}';
+    @include fontdef($FontPath, $FontName, $FontVersion, "Regular");
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face {
+    font-family: '#{$FontName}-Regular';
+    @include fontdef($FontPath, $FontName, $FontVersion, "Regular");
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

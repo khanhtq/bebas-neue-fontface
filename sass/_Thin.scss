@@ -1,0 +1,7 @@
+@font-face {
+    font-family: '#{$FontName}-Thin';
+    @include fontdef($FontPath, $FontName, $FontVersion, "Thin");
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

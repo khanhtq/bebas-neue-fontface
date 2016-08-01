@@ -1,0 +1,8 @@
+@mixin fontdef($FontPath, $FontName, $FontVersion, $FontType:"Regular") {
+  src:  url('#{$FontPath}/#{$FontName}-#{$FontType}.eot?v=#{$FontVersion}');
+  src:  url('#{$FontPath}/#{$FontName}-#{$FontType}.eot?#iefix&v=#{$FontVersion}') format('embedded-opentype'),
+        url('#{$FontPath}/#{$FontName}-#{$FontType}.woff2?v=#{$FontVersion}') format('woff2'),
+        url('#{$FontPath}/#{$FontName}-#{$FontType}.woff?v=#{$FontVersion}') format('woff'),
+        url('#{$FontPath}/#{$FontName}-#{$FontType}.ttf?v=#{$FontVersion}') format('truetype'),
+        url('#{$FontPath}/#{$FontName}-#{$FontType}.svg?v=#{$FontVersion}##{$FontName}#{$FontType}') format('svg');
+}
