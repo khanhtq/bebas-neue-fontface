@@ -1,0 +1,23 @@
+{
+  "name": "bebas-neue-fontface",
+  "description": "The Bebas Neue fontface",
+  "main": "css/bebas-neue.css",
+  "authors": [
+    "khanhtq <khanhtq1987@gmail.com>"
+  ],
+  "license": "SIL Open Font License v1.10",
+  "keywords": [
+    "font",
+    "bebas-neue",
+    "font-face"
+  ],
+  "homepage": "https://github.com/khanhtq/bebas-neue-fontface",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,6 +1,6 @@
 @font-face {
-    font-family: '#{$FontName}-Book';
-    @include fontdef($FontPath, $FontName, $FontVersion, "Book");
+    font-family: '#{$bebas-neue-font-name}-Book';
+    @include fontdef($bebas-neue-font-path, $bebas-neue-font-name, $bebas-neue-font-version, "Book");
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;

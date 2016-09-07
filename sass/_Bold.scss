@@ -1,6 +1,6 @@
 @font-face {
-    font-family: '#{$FontName}-Bold';
-    @include fontdef($FontPath, $FontName, $FontVersion, "Bold");
+    font-family: '#{$bebas-neue-font-name}-Bold';
+    @include fontdef($bebas-neue-font-path, $bebas-neue-font-name, $bebas-neue-font-version, "Bold");
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;

@@ -1,13 +1,13 @@
 @font-face {
-    font-family: '#{$FontName}';
-    @include fontdef($FontPath, $FontName, $FontVersion, "Regular");
+    font-family: '#{$bebas-neue-font-name}';
+    @include fontdef($bebas-neue-font-path, $bebas-neue-font-name, $bebas-neue-font-version, "Regular");
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 @font-face {
-    font-family: '#{$FontName}-Regular';
-    @include fontdef($FontPath, $FontName, $FontVersion, "Regular");
+    font-family: '#{$bebas-neue-font-name}-Regular';
+    @include fontdef($bebas-neue-font-path, $bebas-neue-font-name, $bebas-neue-font-version, "Regular");
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;

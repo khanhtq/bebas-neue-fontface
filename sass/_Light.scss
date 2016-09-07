@@ -1,6 +1,6 @@
 @font-face {
-    font-family: '#{$FontName}-Light';
-    @include fontdef($FontPath, $FontName, $FontVersion, "Light");
+    font-family: '#{$bebas-neue-font-name}-Light';
+    @include fontdef($bebas-neue-font-path, $bebas-neue-font-name, $bebas-neue-font-version, "Light");
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;

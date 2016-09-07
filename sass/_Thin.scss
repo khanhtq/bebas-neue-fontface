@@ -1,6 +1,6 @@
 @font-face {
-    font-family: '#{$FontName}-Thin';
-    @include fontdef($FontPath, $FontName, $FontVersion, "Thin");
+    font-family: '#{$bebas-neue-font-name}-Thin';
+    @include fontdef($bebas-neue-font-path, $bebas-neue-font-name, $bebas-neue-font-version, "Thin");
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
