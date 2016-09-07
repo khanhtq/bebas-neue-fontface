@@ -1,6 +1,7 @@
 {
   "name": "bebas-neue-fontface",
   "description": "The Bebas Neue fontface",
+  "version":"1.0.2",
   "main": "css/bebas-neue.css",
   "authors": [
     "khanhtq <khanhtq1987@gmail.com>"
